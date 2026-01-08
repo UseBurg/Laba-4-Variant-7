@@ -1,0 +1,15 @@
+<svg width="30" height="7" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="15" cy="3" r="7" />
+  <circle cx="22" cy="3" r="7" />
+  <circle cx="19" cy="9" r="7" />
+  <circle cx="12" cy="9" r="7" />
+  <circle cx="8" cy="3" r="7" />
+  <circle cx="11" cy="-3" r="7" />
+  <circle cx="19" cy="-3" r="7" />
+  <circle cx="29" cy="3" r="7" />
+  <circle cx="22" cy="15" r="7" />
+  <circle cx="8" cy="15" r="7" />
+  <circle cx="1" cy="3" r="7" />
+  <circle cx="8" cy="-9" r="7" />
+  <circle cx="22" cy="-9" r="7" />
+</svg>

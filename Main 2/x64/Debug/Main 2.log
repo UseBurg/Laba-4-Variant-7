@@ -1,0 +1,4 @@
+﻿  Main 2.cpp
+C:\Users\yugos\source\repos\Main 2\Main 2\Main 2.cpp(37,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\yugos\source\repos\Main 2\Main 2\Main 2.cpp(38,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Main 2.vcxproj -> C:\Users\yugos\source\repos\Main 2\x64\Debug\Main 2.exe
